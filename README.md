@@ -12,4 +12,7 @@ Step 2:
 Copy the `.github/workflows/gh-pages-deploy.yml` file into your own repo.
 
 Step 3:
+Update the `.github/workflows/gh-pages-deploy.yml` file contents with your repository's name in the appropiate place.
+
+Step 4:
 Commit to your main branch, and watch the magic happen.
